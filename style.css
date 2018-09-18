@@ -60,7 +60,9 @@ dd{
   margin-bottom: 12px;
 }
 
-#nav > span {
+a > span {
   padding-left: 10px;
   padding-right: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
